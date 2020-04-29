@@ -1,1 +1,1 @@
-print("First touch to git hello.")
+print("Greetings")
